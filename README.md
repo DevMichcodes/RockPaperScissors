@@ -1,1 +1,2 @@
 # RockPaperScissors
+A program that accepts user input as either rock, paper or scissor and allows the computer to give a random choiced of the same. The program keeps a score between the computer and the user then returns a winner for each round. After 5 rounds the game is over and a winner is announced.
